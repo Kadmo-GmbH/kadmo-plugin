@@ -1,0 +1,22 @@
+name: kadmo
+type: remote
+dynamic:
+  tools: true
+meta:
+  category: productivity
+  tags:
+    - ai-agents
+    - automation
+    - developer-tools
+    - remote
+about:
+  title: Kadmo
+  description: Dispatch work to Kadmo's AI agents, read tasks and runs, and edit skill packs, playbooks and routing
+  icon: https://kadmo.ai/kadmo-touch-icon.png
+remote:
+  transport_type: streamable-http
+  url: https://app.kadmo.ai/mcp
+oauth:
+  - provider: kadmo
+    secret: kadmo.personal_access_token
+    env: KADMO_PERSONAL_ACCESS_TOKEN

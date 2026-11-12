@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "kadmo": { "type": "http", "url": "https://app.kadmo.ai/mcp" }
+  }
+}
