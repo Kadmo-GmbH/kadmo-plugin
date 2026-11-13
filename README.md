@@ -21,7 +21,7 @@ claude plugin install kadmo@kadmo
 
 Then run `/mcp`, pick `kadmo` and choose **Authenticate**.
 
-Cursor: install **Kadmo** from the marketplace or add this repository as a plugin, then sign in when Cursor shows the `kadmo` server under MCP.
+Cursor: install **Kadmo** from the marketplace, or copy this repository into a folder of its own under `~/.cursor/plugins/local` and run **Developer: Reload Window**. Open **Customize** and choose **Kadmo**: its page lists the `kadmo` server under **MCPs**, marked *Needs authentication*, and the three skills under **Skills**. On the server's row choose **Authenticate** and sign in to Kadmo in the browser that opens.
 
 Claude.ai: add a custom connector with the URL `https://app.kadmo.ai/mcp`.
 

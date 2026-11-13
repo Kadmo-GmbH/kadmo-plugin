@@ -1,12 +1,12 @@
 {
   "name": "kadmo",
   "displayName": "Kadmo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Run Kadmo's AI agents from your coding tool: dispatch work, read tasks and runs, and edit skill packs and playbooks.",
   "author": { "name": "Kadmo GmbH", "email": "info@kadmo.ai", "url": "https://kadmo.ai" },
   "homepage": "https://kadmo.ai",
   "repository": "https://github.com/Kadmo-GmbH/kadmo-plugin",
   "license": "Apache-2.0",
   "keywords": ["ai-agents", "automation", "mcp", "jira", "linear", "skill-packs"],
-  "logo": "assets/kadmo-mark.svg"
+  "logo": "assets/kadmo-mark.png"
 }

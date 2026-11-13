@@ -6,6 +6,7 @@
     {
       "name": "kadmo",
       "source": "./",
+      "version": "1.0.1",
       "description": "Run Kadmo's AI agents from your coding tool: dispatch work, read tasks and runs, and edit skill packs and playbooks."
     }
   ]
